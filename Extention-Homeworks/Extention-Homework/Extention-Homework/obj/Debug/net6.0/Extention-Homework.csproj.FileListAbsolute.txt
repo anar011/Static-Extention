@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\obj\Debug\net6.0\Extention-Homework.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\obj\Debug\net6.0\Extention-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\obj\Debug\net6.0\Extention-Homework.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\obj\Debug\net6.0\Extention-Homework.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\obj\Debug\net6.0\Extention-Homework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\bin\Debug\net6.0\Extention-Homework.exe
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\bin\Debug\net6.0\Extention-Homework.deps.json
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\bin\Debug\net6.0\Extention-Homework.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\bin\Debug\net6.0\Extention-Homework.dll
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\bin\Debug\net6.0\Extention-Homework.pdb
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\obj\Debug\net6.0\Extention-Homework.dll
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\obj\Debug\net6.0\refint\Extention-Homework.dll
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\obj\Debug\net6.0\Extention-Homework.pdb
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\obj\Debug\net6.0\Extention-Homework.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\Static-Extention\Homeworks\Extention-Homeworks\Extention-Homework\Extention-Homework\obj\Debug\net6.0\ref\Extention-Homework.dll
